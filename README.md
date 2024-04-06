@@ -1,3 +1,4 @@
+Something about me👨‍💻
 Hey pals! I'm Surya, a passionate individual with a diverse set of interests ranging from VLSI design, writing, lyricism to dipping my toes into the world of coding. 
 
 VLSI Enthusiast 💡
