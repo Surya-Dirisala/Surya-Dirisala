@@ -4,7 +4,7 @@ Hey pals! I'm Surya, a passionate individual with a diverse set of interests ran
 
 VLSI Enthusiast 💡
 
-VLSI (Very Large Scale Integration) has always intrigued me with its intricate designs and the magic of miniaturization. Exploring the depths of chip design and understanding how electronic systems work at the fundamental level is a fascinating journey I'm committed to. 🔬
+ Exploring the depths of chip design and understanding how electronic systems work at the fundamental level is a fascinating journey I'm committed to. 🔬
 
 Writer and Lyricist ✍️
 
